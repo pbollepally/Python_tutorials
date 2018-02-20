@@ -17,3 +17,6 @@ Lesson 4: Using Classes: Send text using Twilio
 
 Lesson 5: Using Classes: Profanity Editor
           Profanity_check.py
+
+Lesson 6: Apply Classes: Movie Website
+          fresh_tomatoes.py, entertainment.py, fresh_tomatoes.html
