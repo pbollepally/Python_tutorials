@@ -21,5 +21,5 @@ Lesson 5: Using Classes: Profanity Editor
 Lesson 6: Apply Classes: Movie Website
           fresh_tomatoes.py, entertainment.py, fresh_tomatoes.html
 
-Lesson 6: Inheritance and Method overriding: Parent and Child classes
+Lesson 7: Inheritance and Method overriding: Parent and Child classes
           inheritance.py
